@@ -1,7 +1,5 @@
 
 
-let area = 2
+let userName = "Ashok"
 
-area = 4
-
-console.log(area)
+console.log(userName)
